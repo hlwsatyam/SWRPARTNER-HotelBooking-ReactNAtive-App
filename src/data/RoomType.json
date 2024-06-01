@@ -1,0 +1,15 @@
+[
+    { "label": "Standard Room", "value": "Standard Room" },
+    { "label": "Suite", "value": "Suite" },
+    { "label": "Junior Suite", "value": "Junior Suite" },
+    { "label": "Family Room", "value": "Family Room" },
+    { "label": "Interconnecting/Adjoining Rooms", "value": "Interconnecting/Adjoining Rooms" },
+    { "label": "Accessible Room", "value": "Accessible Room" },
+    { "label": "Executive Room", "value": "Executive Room" },
+    { "label": "Penthouse Suite", "value": "Penthouse Suite" },
+    { "label": "Jacuzzi/Hot Tub Room", "value": "Jacuzzi/Hot Tub Room" },
+    { "label": "Honeymoon Suite", "value": "Honeymoon Suite" },
+    { "label": "Theme Room", "value": "Theme Room" },
+    { "label": "Pet-friendly Room", "value": "Pet-friendly Room" }
+  ]
+  

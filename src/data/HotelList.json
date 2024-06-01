@@ -1,0 +1,42 @@
+[
+  {
+    "HotelName": "The Kichen House",
+    "Descreaption": "loremfdsjfds hfjdsn fgjds gfdsa fgds hgfds gfds gfds gfgds fgds gfds fds  tre vcx tre fdsx tyre gfds tre fd hgfd loremfdsjfds hfjdsn fgjds gfdsa fgds hgfds gfds gfds gfgds fgds gfds fds loremfdsjfds hfjdsn fgjds gfdsa fgds hgfds gfds gfds gfgds fgds gfds fds  tre vcx tre fdsx tyre gfds tre fd hgfd  tre vcx tre fdsx tyre gfds tre fd hgfd",
+    "location": "12 Gali behind mc macdonald sec 13 noida",
+    "Details": ["Hotels", "4 Bedrooms", "2 Bathrooms", "3000 sqft"],
+    "Facilities": [
+      "Swimming Pool",
+      "WIFI",
+      "Restaurant",
+      "Parking",
+      "Meeting Room",
+      "Elevator",
+      "Fitness Center",
+      "@4 Hours Open"
+    ],
+    "locationIframe": "ghfd",
+    "HotelStar": 2,
+    "OneNightCharge": 500,
+    "hotelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdoEJ2_rsGiXjeugDWSY0kLW18eRLcFdRcrSTat9PJSA&s"
+  },
+  {
+    "HotelName": "The Kichen House",
+    "Descreaption": "loremfdsjfds hfjdsn fgjds gfdsa fgds hgfds gfds gfds gfgds fgds gfds fds  tre vcx tre fdsx tyre gfds tre fd hgfd loremfdsjfds hfjdsn fgjds gfdsa fgds hgfds gfds gfds gfgds fgds gfds fds loremfdsjfds hfjdsn fgjds gfdsa fgds hgfds gfds gfds gfgds fgds gfds fds  tre vcx tre fdsx tyre gfds tre fd hgfd  tre vcx tre fdsx tyre gfds tre fd hgfd",
+    "location": "12 Gali behind mc macdonald sec 13 noida",
+    "Details": ["Hotels", "4 Bedrooms", "2 Bathrooms", "3000 sqft"],
+    "Facilities": [
+      "Swimming Pool",
+      "WIFI",
+      "Restaurant",
+      "Parking",
+      "Meeting Room",
+      "Elevator",
+      "Fitness Center",
+      "@4 Hours Open"
+    ],
+    "locationIframe": "ghfd",
+    "OneNightCharge": 300,
+    "HotelStar": 5,
+    "hotelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdoEJ2_rsGiXjeugDWSY0kLW18eRLcFdRcrSTat9PJSA&s"
+  }
+]
